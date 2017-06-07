@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First on A real blog&#39;s blog</title>
+    <link>https://cmluciano.github.io/categories/first/</link>
+    <description>Recent content in First on A real blog&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2017 12:04:17 -0400</lastBuildDate>
+    
+	<atom:link href="https://cmluciano.github.io/categories/first/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello world</title>
+      <link>https://cmluciano.github.io/post/hello-world/</link>
+      <pubDate>Wed, 07 Jun 2017 12:04:17 -0400</pubDate>
+      
+      <guid>https://cmluciano.github.io/post/hello-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
