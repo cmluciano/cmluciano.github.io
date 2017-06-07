@@ -19,25 +19,25 @@
   </url>
   
   <url>
-    <loc>https://cmluciano.github.io/categories/first/</loc>
-    <lastmod>2017-06-07T12:04:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://cmluciano.github.io/tags/first/</loc>
     <lastmod>2017-06-07T12:04:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cmluciano.github.io/categories/hello/</loc>
+    <loc>https://cmluciano.github.io/categories/first/</loc>
     <lastmod>2017-06-07T12:04:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cmluciano.github.io/tags/hello/</loc>
+    <lastmod>2017-06-07T12:04:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cmluciano.github.io/categories/hello/</loc>
     <lastmod>2017-06-07T12:04:17-04:00</lastmod>
     <priority>0</priority>
   </url>
