@@ -6,10 +6,22 @@
     <description>Recent content on A real blog&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2017 12:04:17 -0400</lastBuildDate>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 14 Jun 2017 14:16:11 -0400</lastBuildDate>
     
 	<atom:link href="https://cmluciano.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>It Me</title>
+      <link>https://cmluciano.github.io/about/</link>
+      <pubDate>Wed, 14 Jun 2017 14:16:11 -0400</pubDate>
+      
+      <guid>https://cmluciano.github.io/about/</guid>
+      <description>Christopher M Luciano is an Advisory Software Developer for IBM Digital Business group. He currently worksfull-time on Kubernetes and other Cloud Native Computing Foundation (CNCF) projects. Prior to IBM DBG, Christopher was the lead on the Watson container runtime squad.
+He has previously spoken at Pittsburgh based meetup (Code and Supply) on infrastructure and software operations.
+Christopher has 3 terrific cats and one hyper dog.</description>
+    </item>
     
     <item>
       <title>hello world</title>
