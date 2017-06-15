@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Jun 2017 14:16:11 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 16:24:34 -0400</lastBuildDate>
     
 	<atom:link href="https://cmluciano.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Openstack Summit 2017 US</title>
+      <link>https://cmluciano.github.io/post/openstack-summit-2017-us/</link>
+      <pubDate>Wed, 14 Jun 2017 16:24:34 -0400</pubDate>
+      
+      <guid>https://cmluciano.github.io/post/openstack-summit-2017-us/</guid>
+      <description>Machine Learning on Kubernetes (my talk) Recording
+Slides
+There was a mix of experience levels among attendees in regards to deep learning. I tried to take a &amp;ldquo;build up&amp;rdquo; approach to demonstrate why running these types of workloads atop kubernetes is beneficial. This talk weighed toward the beginner level of detail. Many individuals were interested in how these types of systems can be managed and shared.
+I heard Magnum brought up a few times, but it does not seem to be meeting many use-cases.</description>
+    </item>
     
     <item>
       <title>It Me</title>

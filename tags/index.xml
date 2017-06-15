@@ -30,5 +30,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Kubernetes</title>
+      <link>https://cmluciano.github.io/tags/kubernetes/</link>
+      <pubDate>Wed, 14 Jun 2017 16:24:34 -0400</pubDate>
+      
+      <guid>https://cmluciano.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openstack</title>
+      <link>https://cmluciano.github.io/tags/openstack/</link>
+      <pubDate>Wed, 14 Jun 2017 16:24:34 -0400</pubDate>
+      
+      <guid>https://cmluciano.github.io/tags/openstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://cmluciano.github.io/tags/talks/</link>
+      <pubDate>Wed, 14 Jun 2017 16:24:34 -0400</pubDate>
+      
+      <guid>https://cmluciano.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
